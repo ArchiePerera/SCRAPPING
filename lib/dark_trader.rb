@@ -39,4 +39,3 @@ end
 
 puts perform('https://coinmarketcap.com/all/views/all/')
 
-/html/body/div[1]/div/div[1]/div[2]/div/div/div[2]/table/tbody/tr[4]/td[3]/div/a/div/div/div/
